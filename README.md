@@ -34,13 +34,3 @@ php artisan db:seed
 php artisan serve
 ```
 
-## Entidades principales
-
-- `Book` — título, ISBN, año, categoría
-- `Author` — nombre, nacionalidad
-- `User` — nombre, correo, rol
-- `Loan` — libro, usuario, fecha de préstamo, fecha de devolución
-
-## Licencia
-
-MIT
